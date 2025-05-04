@@ -1,4 +1,3 @@
-import numpy as np
 import random
 
 # Definición de estados: 0 -> Reposo, 1 -> Movimiento
