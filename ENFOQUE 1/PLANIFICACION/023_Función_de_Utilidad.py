@@ -31,6 +31,6 @@ print(f"Utilidad esperada al no apostar: {ue_no_apostar}")
 
 # Elegimos la mejor acción
 if ue_apostar > ue_no_apostar:
-    print("✅ Mejor decisión: Apostar")
+    print(" Mejor decisión: Apostar")
 else:
-    print("✅ Mejor decisión: No apostar")
+    print(" Mejor decisión: No apostar")

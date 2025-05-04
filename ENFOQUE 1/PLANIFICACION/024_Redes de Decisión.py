@@ -31,6 +31,6 @@ print(f"Utilidad esperada de no llevar paraguas: {ue_no_llevar}")
 
 # Elegimos la mejor decisión
 if ue_llevar > ue_no_llevar:
-    print("✅ Mejor decisión: Llevar paraguas")
+    print(" Mejor decisión: Llevar paraguas")
 else:
-    print("✅ Mejor decisión: No llevar paraguas")
+    print(" Mejor decisión: No llevar paraguas")

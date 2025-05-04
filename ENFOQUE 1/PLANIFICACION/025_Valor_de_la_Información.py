@@ -44,6 +44,6 @@ print(f"Utilidad esperada con información: {ue_con_info}")
 print(f" Valor de la información: {valor_de_la_informacion}")
 
 if valor_de_la_informacion > 0:
-    print("✅ Conviene preguntar el pronóstico.")
+    print(" Conviene preguntar el pronóstico.")
 else:
-    print("❌ No conviene preguntar el pronóstico.")
+    print(" No conviene preguntar el pronóstico.")
